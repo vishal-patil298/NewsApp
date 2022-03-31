@@ -1,4 +1,4 @@
-package com.example.newsapp;
+package com.example.newsappjava;
 
 import android.content.Context;
 
